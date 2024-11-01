@@ -1,0 +1,10 @@
+* cl-libre-translate
+
+Common Lisp package for human language translation using Libre
+Translate.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/jl2/cl-libre-translate.git |
+| commit  | d3c8400                                           |
+| systems | cl-libre-translate                                |
+|---------+---------------------------------------------------|
