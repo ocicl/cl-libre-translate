@@ -5,6 +5,6 @@ Translate.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/jl2/cl-libre-translate.git |
-| commit  | 4dac629                                           |
+| commit  | 5b5bc4f                                           |
 | systems | cl-libre-translate                                |
 |---------+---------------------------------------------------|
